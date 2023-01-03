@@ -21,8 +21,8 @@ See *Mindi Model Installation* for details on installing.
 
 - [MPLAB® X IDE v6.0.5 or newer](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_pic18q71&utm_content=pic18f56q71-mindi-compare-mplab-mcc)
 - [MPLAB XC8 v2.40.0 or newer](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_pic18q71&utm_content=pic18f56q71-mindi-compare-mplab-mcc)
-- [MPLAB Code Configurator v5.2.2](https://www.microchip.com/en-us/tools-resources/configure/mplab-code-configurator?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_pic18q71&utm_content=pic18f56q71-mindi-compare-mplab-mcc)
-- PIC18F-Q_DFP v1.14.237
+- [MPLAB Code Configurator](https://www.microchip.com/en-us/tools-resources/configure/mplab-code-configurator?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_pic18q71&utm_content=pic18f56q71-mindi-compare-mplab-mcc)
+- PIC18F-Q_DFP v1.14.237 or newer
 
 ## Hardware Used
 
