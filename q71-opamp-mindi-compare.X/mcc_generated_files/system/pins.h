@@ -68,7 +68,7 @@
 #define IO_RA1_SetOpenDrain()       do { ODCONAbits.ODCA1 = 1; } while(0)
 #define IO_RA1_SetAnalogMode()      do { ANSELAbits.ANSELA1 = 1; } while(0)
 #define IO_RA1_SetDigitalMode()     do { ANSELAbits.ANSELA1 = 0; } while(0)
-   
+
 // get/set RB1 aliases
 #define RB1_IN3_TRIS                 TRISBbits.TRISB1
 #define RB1_IN3_LAT                  LATBbits.LATB1
@@ -88,7 +88,7 @@
 #define RB1_IN3_SetOpenDrain()       do { ODCONBbits.ODCB1 = 1; } while(0)
 #define RB1_IN3_SetAnalogMode()      do { ANSELBbits.ANSELB1 = 1; } while(0)
 #define RB1_IN3_SetDigitalMode()     do { ANSELBbits.ANSELB1 = 0; } while(0)
-   
+
 // get/set RC7 aliases
 #define LED0_TRIS                 TRISCbits.TRISC7
 #define LED0_LAT                  LATCbits.LATC7
@@ -108,7 +108,7 @@
 #define LED0_SetOpenDrain()       do { ODCONCbits.ODCC7 = 1; } while(0)
 #define LED0_SetAnalogMode()      do { ANSELCbits.ANSELC7 = 1; } while(0)
 #define LED0_SetDigitalMode()     do { ANSELCbits.ANSELC7 = 0; } while(0)
-   
+
 /**
  * @ingroup  pinsdriver
  * @brief GPIO and peripheral I/O initialization
