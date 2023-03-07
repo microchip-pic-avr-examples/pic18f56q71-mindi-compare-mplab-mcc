@@ -20,13 +20,13 @@ See *Mindi Model Installation* for guidance.
 ## Development Software
 
 - [MPLAB® X IDE v6.0.5 or newer](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_pic18q71&utm_content=pic18f56q71-mindi-compare-mplab-mcc)
-- [MPLAB XC8 v2.40.0 or newer](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_pic18q71&utm_content=pic18f56q71-mindi-compare-mplab-mcc)
+- [MPLAB XC8 v2.41.0 or newer](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_pic18q71&utm_content=pic18f56q71-mindi-compare-mplab-mcc)
 - [MPLAB Code Configurator](https://www.microchip.com/en-us/tools-resources/configure/mplab-code-configurator?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_pic18q71&utm_content=pic18f56q71-mindi-compare-mplab-mcc)
-- PIC18F-Q_DFP v1.15.360 or newer
+- PIC18F-Q_DFP v1.16.368 or newer
 
 ## Hardware Used
 
-- PIC18F56Q71 Curiosity Nano
+- [PIC18F56Q71 Curiosity Nano](https://www.microchip.com/en-us/development-tool/EV01G21A?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_pic18q71&utm_content=pic18f56q71-mindi-compare-mplab-mcc)
 - Oscilloscope
 - 10x Oscilloscope Probe (with hook adapter)
 - Function Generator
